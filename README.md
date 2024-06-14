@@ -11,7 +11,7 @@ Official webserver on Google Collab:
 - [CTRL-V](https://colab.research.google.com/drive/1YWHpwb-8hn7VPOSCAl4jMeRXOJn1zt8m?usp=sharing)
 
 Official publication for CTRL-V:
-- To be updated. (ProQuest)
+- [ProQuest](https://www.proquest.com/docview/3066617366?sourcetype=Dissertations%20&%20Theses)
 - Bioinformatics Journal.
 
 ## Abstract
